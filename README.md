@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @benbares
-- 👀 I’m interested in cyber security and learning how to code.
-- 🌱 I’m currently learning python, and am hoping to learn c# later this year.
-- 💞️ I’m looking to collaborate on any projects that will help me get started in this field.
-- 📫 How to reach me: bares97@gmail.com
+
